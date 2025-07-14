@@ -6,13 +6,13 @@ Welcome to the **COMPAS Bias Analysis** project! This repository investigates ra
 
 ## 📁 Project Structure
 
--- AI Fairness.ipynb # Main analysis script
+- AI Fairness.ipynb # Main analysis script
 
--- Fair AI Systems.pdf # Project report
+- Fair AI Systems.pdf # Project report
 
--- README.md # You're here!
+- README.md # You're here!
 
--- Compas-scores-two-years # Dependencies
+- Compas-scores-two-years # Dependencies
 
 
 
